@@ -19,23 +19,18 @@
 
 ## Overview
 
-![upload_images_gif](https://github.com/guysos922/imageUploader/blob/main/image-upload-gif.gif)
+![upload_images_gif](https://github.com/guysos922/snake/blob/main/snake%20game.gif)
 
 ### Built With
 
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
 
-- [Html]
-- [Css]
-- [JavaScipt]
-- [python] -> flask
+- [python] -> pygame
 
 
 ## Features
 
-- uploading image
-- previewing image
-- link that you can accsess the image at any time
+- snake game
 
 ## How To Use
 
@@ -45,7 +40,7 @@ To clone and run this application, you'll need [Git](https://git-scm.com) and [N
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/guysos922/imageUploader.git
+$ git clone https://github.com/guysos922/snake.git
 
 # Install dependencies
 $ npm install
